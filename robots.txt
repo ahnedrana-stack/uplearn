@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://symphonious-gelato-4a864f.netlify.app/sitemap.xml

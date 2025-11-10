@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "5401c9220cd8a3dfb8f1c424b6df698e"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "118b008888a53e215a579d82b9818e39"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "141b30731262c83cd927a0cc4aafd531"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "19fe6bff8de9fec9401a89c646cf7e6c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "ec67cb6133d71c1b8b31fa3543c57c43"
+    },
+    {
+        "path": "learn-quran-a-complete-beginner-friendly-roadmap-to-mastering-quranic-recitation-and-meaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-beginner-friendly-roadmap-to-mastering-quranic-recitation-and-meaning/index.html",
+        "type": "file",
+        "md5": "7ddad6ac7a36fbdfdd9dec7ea7f5caf3"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-for-beginners-and-advanced-learners",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-for-beginners-and-advanced-learners/index.html",
+        "type": "file",
+        "md5": "a3a2c410e782329424a890d2a605e0db"
+    },
+    {
+        "path": "learn-quran-your-path-to-mastering-quranic-recitation-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-your-path-to-mastering-quranic-recitation-and-understanding/index.html",
+        "type": "file",
+        "md5": "f3a35e90d8ab4b5091f8d29d068f7754"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images-9.jfif",
+        "type": "file",
+        "md5": "cdc710405461cbd87fce07b86fd11ab5"
+    },
+    {
+        "path": "quran-reading-classes-online-a-modern-approach-to-learning-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-a-modern-approach-to-learning-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "8504b2d00966b5d4547d031daef6c2bd"
+    },
+    {
+        "path": "quran-reading-classes-online-the-smart-way-to-master-quran-recitation-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-the-smart-way-to-master-quran-recitation-from-home/index.html",
+        "type": "file",
+        "md5": "ccf4d874b7a1f37856ad7b5ed572c73a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "da5460a6659501babcdac9399e571061"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9fcbf02c02735d20d489907a52206adc"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "ba2a0e95c8ebfb0ea67ba2fcb0c53242"
+    }
+]
